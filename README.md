@@ -74,4 +74,5 @@ because i’m 14, but i feel 42.
 [DAKOTA WARREN'S YOUTUBE](https://www.youtube.com/@dakotawarren)
 
 ## MUSIC TASTE
-https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6AORtDjduMM3bupSWzbTSG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
